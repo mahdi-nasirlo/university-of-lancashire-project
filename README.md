@@ -1,11 +1,54 @@
-در این پروژه که با  **php pure** توسعه یافته است سعی بر این بوده که با استفاده از کمترین کتابخانه ها و با تسلط کامل بر تمام چالش های توسعه پروژه پیاده سازی شده است. معماری بکار رفته در این پروژه **mvc** است که سطح model این پروژه برای ایجاد توسعه پذیری بیشتر از کتابخانه استفاده شده است
-از ویژگی های این پروژه که با php و javascript خالص پیدا شده است : 
+**پروژه دانشگاه Central Lancashire**
+در این پروژه که با **php pure** توسعه یافته است سعی بر این بوده که با استفاده از کمترین کتابخانه ها و با تسلط کامل بر تمام چالش های توسعه پروژه پیاده سازی شده است. معماری بکار رفته در این پروژه **mvc** است که سطح model این پروژه برای ایجاد توسعه پذیری بیشتر از کتابخانه استفاده شده است
+از ویژگی های این پروژه که با php و javascript خالص پیدا شده است :
 
-- صفحه ورود و ثبت نام با سشن ها 
-- سبد خرید با استفاده از جاوااسکریپت 
-- نمایش محصولات با استفاده از **api** با جاوااسکریپت خالص  ( در پروژه ای مجزا )
-- ایجاد کامنت ها و سیستم امتیاز دهی به هر محصول 
+- صفحه ورود و ثبت نام با سشن ها
+- سبد خرید با استفاده از جاوااسکریپت
+- نمایش محصولات با استفاده از **api** با جاوااسکریپت خالص ( در پروژه ای مجزا )
+- ایجاد کامنت ها و سیستم امتیاز دهی به هر محصول
 - نمایش زنده پیشنهادات در صفحه اصلی
+
+### Home Page
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (108).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
+
+### Products Page With Filter
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (109).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (111).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
+
+### Cart Page (Middleware Auth)
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (112).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
+
+### Sign Up Page
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (113).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (114).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
+
+### Cart Page
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (115).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
+
+<div style="width:100%;display: flex;justify-content: center;padding:5px 0"> 
+   <img src="/images/Screenshot (116).png" style="width:60%; margin: 0 auto"></a></p>
+</div>
 
 # Uclan student's union shop
 
